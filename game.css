@@ -1,0 +1,11 @@
+#canvas_main{
+    /*width: 900px;
+    height: 600px;*/
+    image-rendering: pixelated;
+}
+body{
+    background-color: rgb(0, 0, 68);
+}
+.image_game{
+    display: none;
+}
